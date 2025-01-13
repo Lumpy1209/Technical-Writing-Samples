@@ -1,0 +1,1 @@
+This repository provides a short list of technical document samples I've authored during employs for a variety of companies, and within a variety of technology verticals. Many more are available upon request.
